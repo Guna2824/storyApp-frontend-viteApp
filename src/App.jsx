@@ -3,6 +3,7 @@ import ColourTherapy from './ColourTherapy'
 import { Route, Routes } from 'react-router-dom'
 import Game from './Game'
 import Home from './Home'
+import TnpscHome from './tnpsc/TnpscHome'
 
 function App() {
   return (
@@ -10,6 +11,7 @@ function App() {
       <Route path='/' element={<Home />} />
       <Route path='/color' element={<ColourTherapy />} />
       <Route path='/game' element={<Game />} />
+      <Route path='/tnpsc' element={<TnpscHome />} />
     </Routes>
   )
 }

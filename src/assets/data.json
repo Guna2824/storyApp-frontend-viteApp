@@ -1,0 +1,209 @@
+{
+    "Class": "6th",
+    "Language": "Tamil",
+    "Subject": "Tamil Literature",
+    "AcademicYear": "2024-2025",
+    "Terms": [
+      {
+        "Term": "First Term",
+        "TotalQuestions": 15,
+        "Questions": [
+          {
+            "Number": 1,
+            "Type": "MCQ",
+            "Difficulty": "Easy",
+            "Question": "Who is the author of the song: 'தமிழுக்கு அமுதென்று பேர்! - அந்தத் தமிழ் இன்பத் தமிழ் எங்கள் உயிருக்கு நேர்!'?",
+            "Options": [
+              "தொல்காப்பியர்",
+              "பாவலரேறு பெருஞ்சித்திரனார்",
+              "பாரதிதாசன்",
+              "பாரதியார்"
+            ],
+            "CorrectAnswer": "பாரதிதாசன்"
+          },
+          {
+            "Number": 2,
+            "Type": "MCQ",
+            "Difficulty": "Easy",
+            "Question": "Which Tamil poet is known as 'புரட்சிக் கவிஞர்'?",
+            "Options": [
+              "பாரதியார்",
+              "பாரதிதாசன்",
+              "கம்பர்",
+              "அப்பர்"
+            ],
+            "CorrectAnswer": "பாரதிதாசன்"
+          },
+          {
+            "Number": 3,
+            "Type": "MCQ",
+            "Difficulty": "Medium",
+            "Question": "Who wrote the epic 'சிலப்பதிகாரம்'?",
+            "Options": [
+              "இளங்கோவடிகள்",
+              "திருவள்ளுவர்",
+              "கம்பர்",
+              "ஒட்டக்கூத்தர்"
+            ],
+            "CorrectAnswer": "இளங்கோவடிகள்"
+          },
+          {
+            "Number": 4,
+            "Type": "MCQ",
+            "Difficulty": "Medium",
+            "Question": "Which Tamil text is considered the oldest grammar book?",
+            "Options": [
+              "திருக்குறள்",
+              "தொல்காப்பியம்",
+              "நாலடியார்",
+              "திருமந்திரம்"
+            ],
+            "CorrectAnswer": "தொல்காப்பியம்"
+          },
+          {
+            "Number": 5,
+            "Type": "MCQ",
+            "Difficulty": "Easy",
+            "Question": "Who is the author of 'குறுந்தொகை'?",
+            "Options": [
+              "பாரதியார்",
+              "புலவர் பலர்",
+              "திருவள்ளுவர்",
+              "கம்பர்"
+            ],
+            "CorrectAnswer": "புலவர் பலர்"
+          },
+          {
+            "Number": 6,
+            "Type": "MCQ",
+            "Difficulty": "Medium",
+            "Question": "Which Tamil poet is known for his work 'பாண்டிக்கோவை'?",
+            "Options": [
+              "ஒட்டக்கூத்தர்",
+              "கம்பர்",
+              "பாரதியார்",
+              "பாரதிதாசன்"
+            ],
+            "CorrectAnswer": "ஒட்டக்கூத்தர்"
+          },
+          {
+            "Number": 7,
+            "Type": "MCQ",
+            "Difficulty": "Easy",
+            "Question": "Who is the author of 'திருக்குறள்'?",
+            "Options": [
+              "திருவள்ளுவர்",
+              "கம்பர்",
+              "பாரதியார்",
+              "பாரதிதாசன்"
+            ],
+            "CorrectAnswer": "திருவள்ளுவர்"
+          },
+          {
+            "Number": 8,
+            "Type": "MCQ",
+            "Difficulty": "Medium",
+            "Question": "Which Tamil text is a collection of moral sayings?",
+            "Options": [
+              "நாலடியார்",
+              "சிலப்பதிகாரம்",
+              "மணிமேகலை",
+              "பெருங்கதை"
+            ],
+            "CorrectAnswer": "நாலடியார்"
+          },
+          {
+            "Number": 9,
+            "Type": "MCQ",
+            "Difficulty": "Medium",
+            "Question": "Who is the author of 'மணிமேகலை'?",
+            "Options": [
+              "சீத்தலைச் சாத்தனார்",
+              "இளங்கோவடிகள்",
+              "கம்பர்",
+              "திருவள்ளுவர்"
+            ],
+            "CorrectAnswer": "சீத்தலைச் சாத்தனார்"
+          },
+          {
+            "Number": 10,
+            "Type": "MCQ",
+            "Difficulty": "Easy",
+            "Question": "Which Tamil poet is known for his work 'கம்பராமாயணம்'?",
+            "Options": [
+              "கம்பர்",
+              "ஒட்டக்கூத்தர்",
+              "பாரதியார்",
+              "பாரதிதாசன்"
+            ],
+            "CorrectAnswer": "கம்பர்"
+          },
+          {
+            "Number": 11,
+            "Type": "MCQ",
+            "Difficulty": "Medium",
+            "Question": "Who is the author of 'புறநானூறு'?",
+            "Options": [
+              "புலவர் பலர்",
+              "திருவள்ளுவர்",
+              "கம்பர்",
+              "பாரதியார்"
+            ],
+            "CorrectAnswer": "புலவர் பலர்"
+          },
+          {
+            "Number": 12,
+            "Type": "MCQ",
+            "Difficulty": "Medium",
+            "Question": "Which Tamil text is a collection of devotional hymns?",
+            "Options": [
+              "தேவாரம்",
+              "திருக்குறள்",
+              "நாலடியார்",
+              "சிலப்பதிகாரம்"
+            ],
+            "CorrectAnswer": "தேவாரம்"
+          },
+          {
+            "Number": 13,
+            "Type": "MCQ",
+            "Difficulty": "Easy",
+            "Question": "Who is the author of 'தேவாரம்'?",
+            "Options": [
+              "திருஞானசம்பந்தர்",
+              "திருவள்ளுவர்",
+              "கம்பர்",
+              "பாரதியார்"
+            ],
+            "CorrectAnswer": "திருஞானசம்பந்தர்"
+          },
+          {
+            "Number": 14,
+            "Type": "MCQ",
+            "Difficulty": "Easy",
+            "Question": "Which Tamil poet is known for his work 'பாரதியார் கவிதைகள்'?",
+            "Options": [
+              "பாரதியார்",
+              "பாரதிதாசன்",
+              "கம்பர்",
+              "ஒட்டக்கூத்தர்"
+            ],
+            "CorrectAnswer": "பாரதியார்"
+          },
+          {
+            "Number": 15,
+            "Type": "MCQ",
+            "Difficulty": "Medium",
+            "Question": "Who is the author of 'நாலடியார்'?",
+            "Options": [
+              "புலவர் பலர்",
+              "திருவள்ளுவர்",
+              "கம்பர்",
+              "பாரதியார்"
+            ],
+            "CorrectAnswer": "புலவர் பலர்"
+          }
+        ]
+      }
+    ]
+  }
